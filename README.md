@@ -31,7 +31,7 @@
 
     <div class="section">
         <h2>About Me</h2>
-        <p>I'm currently a Sales and Marketing intern at Kenya Medical Supplies Authority.
+        <p>I'm currently learning web development.
            I'm interested in Applications development, websites development, Artificial Intelligence and Machine learning.</p>
     </div>
 
