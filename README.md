@@ -9,7 +9,7 @@
 <body>
     <h1>Welcome! I'm Joel Musembi Samwel</h1>
         <h2>About Me</h2>
-        <p>I'm a student currently learning web development.Looking forward to creating responsive and interactive websites</p>
+        <p>I'm a student currently learning web development.<br>Looking forward to creating responsive and interactive websites</p>
     </div>
         <h2>What I'm Learning</h2>
         <ul>
