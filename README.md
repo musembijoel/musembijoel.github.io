@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Site</title>
+    <h>My Personal Site</h>
 </head>
 <body>
     <h1>Welcome! I'm Joel Musembi Samwel</h1>
